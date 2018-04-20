@@ -1,4 +1,4 @@
-# AnalizeClassifyImages SVM vs MLP comparison
+# AnalizeClassifyImages (SVM vs MLP comparison)
 ### Created by Jesús García García - Master´s Degree in Big Data Analytics UEM
 #### Made for a didactic purpose. 
 
